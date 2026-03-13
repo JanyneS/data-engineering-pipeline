@@ -8,7 +8,7 @@ Este projeto simula um cenário real de negócio em que a empresa fictícia **No
 
 É solicitado uma solução que permita:
 
-- centralizar os dados operacionaisgit add .
+- centralizar os dados operacionais
 - automatizar o processamento de dados
 - disponibilizar informações estruturadas para análise
 - apoiar a tomada de decisão estratégica
