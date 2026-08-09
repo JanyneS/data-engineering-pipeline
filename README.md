@@ -131,7 +131,4 @@ Durante o desenvolvimento do projeto foram explorados diversos conceitos fundame
 ## 👩‍💻 Autora
 
 Janyne Soares
-
-Projeto desenvolvido como estudo prático de Engenharia de Dados, também apresentado como **Projeto Integrador da Pós-Graduação em Ciência de Dados pela Universidade Tecnológica Federal do Paraná (UTFPR)**.
-
 -Baseado em estudos e práticas de cursos na área de Engenharia de Dados.
